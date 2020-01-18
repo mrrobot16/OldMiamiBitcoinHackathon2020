@@ -115,7 +115,7 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /Users/jedi/miamiBTCHackathon/client-miamiBTCHackathon/app/vendor/custom-elements-es5-adapter.js */"./app/vendor/custom-elements-es5-adapter.js");
+module.exports = __webpack_require__(/*! /Users/justindang/Developer/MiamiBitcoinHackathon2020/app/vendor/custom-elements-es5-adapter.js */"./app/vendor/custom-elements-es5-adapter.js");
 
 
 /***/ })
